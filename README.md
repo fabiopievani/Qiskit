@@ -4,7 +4,7 @@ Questa repository contiene diversi progetti sviluppati in Python (Jupyter Notebo
 Lo scopo del lavoro è quello di analizzare diversi parametri di qualità del circuito quantistico in base ai diversi livelli di ottimizzazione utilizzati su di esso
 
 Requirements
-Per poter eseguire i vari progetti sono necessari
+ Per poter eseguire i vari progetti sono necessari:
 - qiskit
 - qiskit-aer
 - qiskit-ibm-runtime
